@@ -24,7 +24,7 @@ Task 2
 
 **Output:**
 
-* Visual dashboard (attached as Power BI `.pbix` file and screenshots)
+* Visual dashboard 
 * Storytelling summary slide included
 
 
